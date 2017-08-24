@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/sauvegarder" android:title="sauvegarder"
+    android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/temps" android:title="temps"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/verifier" android:title="verifier"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
